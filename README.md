@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 additional line_1
 additional line_2
+new additional line_3
